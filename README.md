@@ -71,7 +71,7 @@ StreamTG/
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
    ```powershell
-   git clone [https://github.com/ВАШ_ЛОГИН/StreamTG.git](https://github.com/ВАШ_ЛОГИН/StreamTG.git)
+   git clone [https://github.com/5hpa1a/StreamTG.git](https://github.com/5hpa1a/StreamTG.git)
    cd StreamTG
    ```
 2. Создайте и активируйте виртуальное окружение:
@@ -100,7 +100,7 @@ StreamTG/
 
 1. Клонируйте репозиторий и перейдите в каталог:
    ```bash
-   git clone [https://github.com/ВАШ_ЛОГИН/StreamTG.git](https://github.com/ВАШ_ЛОГИН/StreamTG.git)
+   git clone [https://github.com/5hpa1a/StreamTG.git](https://github.com/5hpa1a/StreamTG.git)
    cd StreamTG
    ```
 2. Создайте виртуальное окружение и установите зависимости:
